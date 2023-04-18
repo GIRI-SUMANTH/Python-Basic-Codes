@@ -12,6 +12,6 @@ while (k != 0):
     k = k//10
 #print(sum)
 if (sum == num):
-    print("\n jjjjj Armstrong number.")
+    print(num,"is an Armstrong number.")
 else:
-    print("\n kkkk Not an Arms trong number.")
+    print(num,"is Not an Armstrong number.")
